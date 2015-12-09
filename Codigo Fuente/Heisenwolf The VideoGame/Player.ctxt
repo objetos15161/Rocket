@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Player
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Player\ here.\r\n\ Esta\ es\ la\ clase\ principal,el\ jugador\ puede\ moverse\ a\ la\ izquierda\ o\ a\ la\ derecha\ o\ saltar\ segun\ la\ tecla\ oprimida\r\n\ Eljugador\ tiene\ 3\ vidas\ en\ el\ juego,si\ es\ tocado\ por\ un\ objeto\ de\ la\ clase\ enemigo\ perdera\ una\ vida\r\n\ Para\ matar\ a\ los\ enemigos\ debe\ deisparar\ bolas\ de\ nieve\ si\ elimina\ a\ un\ enemigo\ aparecera\ un\ bonus\r\n\ si\ el\ jugador\ recoge\ el\ bonus\ aumentara\ su\ score.\r\n\ @author\ Cesar\ Mondragon\ Martin\ \ \r\n\ @version\ 04-12-2015\r\n
+comment1.params=
+comment1.target=Player()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ Player,se\ inicializan\ las\ variables\ de\ isntancia\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=java.lang.String\ getDirection()
+comment3.text=\r\n\ Regresa\ la\ direccion\ del\ jugador\r\n
+comment4.params=
+comment4.target=int\ getScore()
+comment4.text=\r\n\ Regresa\ el\ score\ del\ jugador\r\n
+comment5.params=
+comment5.target=int\ getLifes()
+comment5.text=\r\n\ Regresa\ las\ vidas\ del\ jugador\r\n
+numComments=6

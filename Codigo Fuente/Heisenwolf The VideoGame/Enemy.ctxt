@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Enemy
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Enemie\ here.\r\n\ \r\n\ @author\ Diego\ Alfonso\ Ambriz\ Martinez\ \r\n\ @version\ 20-11-2014\r\n
+comment1.params=
+comment1.target=Enemy()
+comment1.text=Declaration\ of\ instance\ variables
+comment2.params=
+comment2.target=void\ act()
+numComments=3

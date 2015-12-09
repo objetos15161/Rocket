@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=CounterLifes
+comment0.text=\r\n\ Este\ objeto\ solo\ se\ agrega\ al\ mundo\ como\ una\ imagen\ para\ el\ contador\ de\ vidas\ del\ jugador.\r\n\ \r\n\ @author\ Cesar\ Mondragon\ Martin\ \ \r\n\ @version\ 04-12-2015\r\n
+comment1.params=
+comment1.target=CounterLifes()
+comment1.text=\r\n\ Constructor\ de\ la\ Clase\ CounterLifes\r\n
+comment2.params=
+comment2.target=void\ act()
+numComments=3

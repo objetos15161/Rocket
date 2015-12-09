@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=BlockLeft
+comment0.text=\r\n\ Este\ bloque\ se\ utiliza\ para\ construir\ plataformas,y\ ser\ un\ borde\ de\ una\ de\ ellas,para\ evitar\ el\ paso\ del\ jugador;\r\n\ \r\n\ @author\ Cesar\ Mondragon\ Martin\ \ \r\n\ @version\ 04-12-2015\r\n
+comment1.params=
+comment1.target=BlockLeft()
+comment1.text=\r\n\ Constructor\ de\ la\ clase\ BlockLeft\r\n\ Dibuja\ el\ objeto\ en\ pantalla\r\n
+comment2.params=
+comment2.target=void\ act()
+comment3.params=
+comment3.target=void\ dibujar()
+comment3.text=\r\n\ Le\ asigna\ una\ imagen\ al\ objeto.\r\n
+numComments=4
